@@ -1,0 +1,27 @@
+header{
+    min-height: 100vh;
+    background:
+    linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)) ,
+     url(../imegas/header-pic.jpg);
+    background-position: center;
+    background-size: cover;
+}
+ .nav-hr{
+    color:white;
+    width: 85%;
+    border: solid 2px white;
+    margin: 20px auto;
+    margin-top: 2px;
+    
+}
+.p-header{
+    margin: 20px auto;
+    font-size: 100px;
+    font-family: cursive;
+}
+/* header..................... */
+h1{
+    margin-top: -10px;
+}
+
+    
